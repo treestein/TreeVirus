@@ -11,6 +11,9 @@ ever written so please excuse the absolute horrid code quality.
 I have quickly gone through and cleaned and commented anything
 that I can in an attempt to make this spaghetti code readable.
 
+I managed to condense what was almost 300-400 lines of code to half 
+that size.
+
 ### A word of warning.
 Running the application should pose no serious risk to your computer.
 I have seen different reactions to the program from different computers.
