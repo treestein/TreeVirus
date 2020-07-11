@@ -19,7 +19,7 @@ Running the application should pose no serious risk to your computer.
 I have seen different reactions to the program from different computers.
 Some BSOD and some the application crashes after a certain time.
 
-However, it should be noted that the application uses forever loops
-and will not stop until one of those things happen. Are sure fire way
+However, it should be noted that the application uses infinite loops
+and will not stop until one of those things happen. A sure fire way
 to terminate it is to have task manager open before you run it and
 kill the process from there.
